@@ -1,6 +1,6 @@
 <h1>Hello, I'm Yaroslav<h1/>
 
-<h2> I'm a Student, and a backend developer<h2/>
+<h2> I'm a backend developer and a Student<h2/>
 
 - 🌱 I’m learning everything .Net
 - 🥅 2021 Goals: Commit as much as I can
