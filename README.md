@@ -1,10 +1,6 @@
-<h1>Hello, I'm Yaroslav<h1/>
+<h1>Hello, I'm Yaroslav!</h1>
 
-<h2> I'm a Backend Developer and a student<h2/>
-
-- 🌱 I’m learning everything .Net
-- 🥅 2021 Goals: Commit as much as I can
-<br/>
+<h4>I do .NET stuff</h4>
 <h2>Tools:<h2/>
 <img align="left" alt="CSharp" width="26px" src="https://user-images.githubusercontent.com/64675654/103455456-0f762980-4cf6-11eb-827a-84756f57c296.png" />
 <img align="left" alt="dotNet" width="26px" src="https://user-images.githubusercontent.com/64675654/103455651-7c3df380-4cf7-11eb-8b60-6664758a5433.png" />
